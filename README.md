@@ -384,9 +384,10 @@ Bu proje eğitim amaçlı geliştirilmiştir.
 
 **Yavuzhan Kurşun**
 - Kocaeli Sağlık ve Teknoloji Üniversitesi
-- Proje Tarihi: 2024
+- Proje Tarihi: 2025
 
 ## 📞 İletişim
+- ykurrsun@gmail.com
 
 Sorularınız için GitHub Issues kullanabilirsiniz.
 
